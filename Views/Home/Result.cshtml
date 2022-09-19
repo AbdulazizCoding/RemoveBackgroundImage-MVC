@@ -1,0 +1,9 @@
+@model ProjectMVC.Models.Result
+
+<div class="main bg-primary">
+    <div class="upload-card">
+        <img src="@Model.Photo" alt="@@Model.Id" class="result">
+
+        <button style="margin-top:318px;" asp-controller="Home" asp-action="LoadImage">Download</button>
+    </div>
+</div>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VgsbPZtZEqjwbOOJgqh1XYJSw6dGliUqNGKM3sBRpbWDquZzhq3ot6fCE6EWKaCVk15BVnpya6TmxO4lr9S8TA==",
+  "dgSpecHash": "YFKQ/D3KBbCxM+3k/a1YhdPD2pn4CZZKlCIQRpO+zWWWxG+TkcN+StW9M7MZjlQM0ONSlYGah7PwnF5hnyyhnw==",
   "success": true,
-  "projectFilePath": "D:\\IlmHub\\DotNet\\ProjectMVC\\ProjectMVC.csproj",
+  "projectFilePath": "D:\\IlmHub\\DotNet\\ProjectMVC\\RemoveBackgroundImage-MVC\\ProjectMVC.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

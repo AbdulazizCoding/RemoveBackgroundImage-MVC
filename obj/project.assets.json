@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\IlmHub\\DotNet\\ProjectMVC\\ProjectMVC.csproj",
+      "projectUniqueName": "D:\\IlmHub\\DotNet\\ProjectMVC\\RemoveBackgroundImage-MVC\\ProjectMVC.csproj",
       "projectName": "ProjectMVC",
-      "projectPath": "D:\\IlmHub\\DotNet\\ProjectMVC\\ProjectMVC.csproj",
+      "projectPath": "D:\\IlmHub\\DotNet\\ProjectMVC\\RemoveBackgroundImage-MVC\\ProjectMVC.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\IlmHub\\DotNet\\ProjectMVC\\obj\\",
+      "outputPath": "D:\\IlmHub\\DotNet\\ProjectMVC\\RemoveBackgroundImage-MVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"

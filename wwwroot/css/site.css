@@ -13,6 +13,112 @@ html {
   min-height: 100%;
 }
 
-body {
-  margin-bottom: 60px;
+
+.main
+{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+    display: inline-block;
+}
+.upload-card
+{
+    width: 400px;
+    height: 400px;
+    background-color: White;
+    border-radius: 10px;
+    position: fixed;
+    box-shadow:5px 5px 10px rgba(17, 17, 17, 0.548);
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.upload-card form
+{
+    width: 250px;
+    height: 250px;
+    border: 2px dashed rgb(9, 255, 0);
+    position: fixed;
+    left: 50%;
+    top: 35%;
+    transform: translate(-49%, -40%);
+    border-radius: 5px;
+}
+
+.result
+{
+    width: 250px;
+    height: 250px;
+    border: 2px dashed rgb(9, 255, 0);
+    position: fixed;
+    left: 50%;
+    top: 35%;
+    transform: translate(-49%, -40%);
+    border-radius: 5px;
+}
+
+.upload-card form input
+{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+    width: 50px;
+    color: rgb(9, 255, 0);
+    opacity: 0;
+}
+
+.upload-card form svg
+{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+    width: 50px;
+    color: rgb(9, 255, 0);
+    opacity: 5;
+}
+
+.upload-card button
+{
+    width: 170px;
+    height: 45px;
+    background-color: rgb(9, 255, 0);
+    border-radius: 5px;
+    box-shadow:5px 5px 10px rgba(17, 17, 17, 0.24);
+    border:none;
+    color: white;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 275px;
+}
+
+.upload-card button:hover
+{
+    background-color: rgb(11, 240, 3);
+    transition: 0.2s;
+    box-shadow:5px 5px 10px rgba(17, 17, 17, 0.288);
+}
+
+.upload-card button a
+{
+    color: white;
+    text-decoration:none;
+}
+
+#input_image
+{
+    width: 250px;
+    height: 250px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
